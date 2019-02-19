@@ -16,6 +16,8 @@ PRODUCT_MODEL := SM-G960F
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
+#Kernel
+TARGET_KERNEL_SOURCE := kernel/samsung/universal9810-star
 
 # PixelExperience stuff
 TARGET_GAPPS_ARCH := arm64
